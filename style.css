@@ -1,0 +1,156 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    background:  light gray;
+}
+.wrapper
+{
+    height: auto;
+    width: 1260px;
+    overflow: hidden;
+    margin: auto;
+}
+
+header
+{
+    height: 250px;
+    width: inherit;
+}
+.name
+{
+    float: right;
+    font-size: 60px;
+    margin-top: 40px;
+    margin-right: 250px;
+    
+}
+.p1
+{
+    float: right;
+    margin-left: 320px;
+    margin-top: -90px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+.img
+{
+    float: left;
+    margin-top: 20px;
+}
+
+nav
+{
+    width: inherit;
+    background: #333333;
+}
+nav ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333333;
+}
+nav ul li
+{
+    font-size: 20px;
+    float: left;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding:  20px 22px ;
+}
+nav ul li:hover
+{
+    background: #F3F3F3;
+}
+nav ul li a:hover
+{
+    color: black;
+}
+nav ul li.right{
+    float: right;
+}
+
+.sec_box
+{
+    height: 1370px;
+    width: 800px;
+    float: left;
+}
+
+.section1
+{
+    height: 400px;
+    width: 790px;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.section2
+{
+    height: 400px;
+    width: 790px;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.section3
+{
+    height: 400px;
+    width: 790px;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.aside_box
+{
+    height: 1370px;
+    width: 440px;
+    float: left;
+   
+}
+
+.aside1
+{
+    height: 850px;
+    width: 368px;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 40px;
+}
+
+.aside2
+{
+    height: 400px;
+    width: 368px;
+    background-color: floralwhite;
+    margin-top: 10px;
+    padding: 20px;
+    margin-left: 40px;
+}
+
+footer
+{
+    height: 50px;
+    width: inherit;
+    float: left;
+    background-color: #333333;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    vertical-align: middle;
+    font-size: 20px;
+}
