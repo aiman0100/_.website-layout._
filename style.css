@@ -130,6 +130,7 @@ nav ul li.right{
     margin-top: 10px;
     padding: 20px;
     margin-left: 40px;
+    text-align: center;
 }
 
 .aside2
@@ -140,17 +141,17 @@ nav ul li.right{
     margin-top: 10px;
     padding: 20px;
     margin-left: 40px;
+    text-align: center;
 }
 
 footer
 {
-    height: 50px;
+    height: 40px;
     width: inherit;
     float: left;
     background-color: #333333;
     text-align: center;
     color: white;
-    padding: 20px;
-    vertical-align: middle;
     font-size: 20px;
+    padding-top: 25px;
 }
